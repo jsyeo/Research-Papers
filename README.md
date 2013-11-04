@@ -1,8 +1,5 @@
-Research Papers
----------------
+# Research Papers and Other PLT Related Stuff
 
 This is a git repo for holding various research papers that I find interesting.
-They often relate to my research area of GHC and static compilation. Often
-they aren't directly related to my research but to Haskell and Functional
-languages in general.
-
+They are often related to functional programming, haskell, ocaml, the jvm and
+compiler optimization.
